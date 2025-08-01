@@ -26,3 +26,24 @@ Whether you're syncing photos, videos, or documents, `drivediff` shows you:
 ```bash
 drive-diff /media/user/HDD-1 /media/user/HDD-2
 ```
+
+Outputs a list of:
+
+- Missing folders/files
+- Size mismatches
+- Optional content-level differences (future feature)
+
+## 📦 Installation
+
+(Coming soon…)
+
+## 🔜 Roadmap
+
+- Interactive mode (choose what to sync)
+- GUI (simple drag & drop)
+- Hash-based file comparison
+- Auto-suggestions for syncing safely
+
+## 🤝 Contributions
+
+PRs and feedback welcome! Especially if you’ve ever lost track of where your files went.
